@@ -1,5 +1,7 @@
 # zorber
 
+[![circleci-badge][]][circleci-target]
+
 > A GitHub App built with [Probot](https://github.com/probot/probot) that Zorber rolls the orbs
 
 ## Setup
@@ -25,3 +27,7 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 ## License
 
 [Apache 2.0](LICENSE) © 2020 Giant Swarm GmbH <hello@giantswarm.io>
+
+
+[circleci-badge]: https://circleci.com/gh/giantswarm/zorber.svg?style=shield
+[circleci-target]: https://app.circleci.com/pipelines/github/giantswarm/zorber
