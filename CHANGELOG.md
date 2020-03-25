@@ -7,4 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/giantswarm/REPOSITORY_NAME/tree/master
+### Added
+
+- CI setup to run tests automatically (#1)
+
+
+[Unreleased]: https://github.com/giantswarm/zorber/tree/master
