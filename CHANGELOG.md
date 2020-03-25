@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- CI setup to run tests automatically (#1)
+- [#1](https://github.com/giantswarm/zorber/pull/1) CI setup to run tests automatically
 
 
 [Unreleased]: https://github.com/giantswarm/zorber/tree/master
